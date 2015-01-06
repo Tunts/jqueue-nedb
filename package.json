@@ -1,0 +1,31 @@
+{
+  "name": "jqueue-nedb",
+  "version": "0.0.1",
+  "description": "NeDB backing storage for jqueue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tunts/jqueue-nedb.git"
+  },
+  "keywords": [
+    "jqueue",
+    "nedb"
+  ],
+  "author": "Wesley Akio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tunts/jqueue-nedb/issues"
+  },
+  "homepage": "https://github.com/Tunts/jqueue-nedb",
+  "files": [
+    "lib",
+    "index.js",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "nedb": "^1.1.1"
+  }
+}
